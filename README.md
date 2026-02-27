@@ -244,6 +244,19 @@
     Database: MongoDB<br>
     Deployment: Azure
 </p>
+
+  <hr/>
+
+  <p><strong>Staff Login</strong><br>
+    Email - john@example.com<br>
+    Password - john12345
+    <br><br>
+    Email - james@example.com<br>
+    Password - james12345
+    <br><br>
+    Email - melida@example.com<br>
+    Password - melida12345
+  </p>
  
 </body>
 </html>
